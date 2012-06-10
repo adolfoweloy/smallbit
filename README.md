@@ -12,7 +12,7 @@ The view is created using smarty templating way with pure HTML and javascript.
 The model must be created using php-activerecord.
 
 Why creating another framework?
--------------------------------
+--------------------------------
 
 smallbit was created when I was building a webapp called arrumetudo. when creating this application, 
 I didn't want to start learning some framework dealing with the whole learning curve. 
